@@ -1,68 +1,68 @@
 * {
-  box-sizing: border-box;
-}
-body {
-  margin: 0;
-}
-.gpd-header{
-  margin:0;
-}
-#i6r5{
-  font-family:Courier New, Courier, monospace;
-  color:#ffffff;
-  position:absolute;
-  transform: translateX(9.9609375px) translateY(-6px);
-}
-body{
-  background-image:url('https://cdn.grapedrop.com/u9b996dca8cfe4ce39f192bec61fa9d4b/8c9f9062f60345dcb44f44223768cda1_image_2022-07-05_233602617.png');
-  background-repeat:repeat;
-  background-position:left top;
-  background-attachment:scroll;
-  background-size:auto;
-}
-#i75d{
-  width:500px;
-  font-family:Courier New, Courier, monospace;
-  color:#ffffff;
-  position:absolute;
-  transform: translateX(9.9609375px) translateY(24px);
-}
-#iyrh{
-  position:absolute;
-  transform: translateX(1812px) translateY(12.25px);
-  max-width:200%;
-  width:60px;
-  height:60px;
-  backdrop-filter:opacity(100%);
-  background-image:url('https://cdn.grapedrop.com/u9b996dca8cfe4ce39f192bec61fa9d4b/6f552cc6466141f6a04bb157cb127f3e_3069758_circle_discord_gaming_messenger_round_icon_icon.png');
-  background-repeat:repeat;
-  background-position:center center;
-  background-attachment:scroll;
-  background-size:cover;
-}
-#iz79{
-  position:absolute;
-  transform: translateX(1746px) translateY(12.5px);
-  max-width:200%;
-  width:60px;
-  height:60px;
-  backdrop-filter:opacity(100%);
-  background-image:url('https://cdn.grapedrop.com/u9b996dca8cfe4ce39f192bec61fa9d4b/903c7dfb68f64946a6a8475a23eccb9e_294712_circle_youtube_icon.png');
-  background-repeat:repeat;
-  background-position:center center;
-  background-attachment:scroll;
-  background-size:cover;
-}
-#inby{
-  position:absolute;
-  transform: translateX(1679px) translateY(12.625px);
-  max-width:200%;
-  width:60px;
-  height:60px;
-  backdrop-filter:opacity(100%);
-  background-image:url('https://cdn.grapedrop.com/u9b996dca8cfe4ce39f192bec61fa9d4b/0bb2e86288574095b3d6d5e63f09bbc1_mark_-_white.png');
-  background-repeat:repeat;
-  background-position:center center;
-  background-attachment:scroll;
-  background-size:cover;
-}
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+  }
+  .gpd-header{
+    margin:0;
+  }
+  #i6r5{
+    font-family:Courier New, Courier, monospace;
+    color:#ffffff;
+    position:absolute;
+    transform: translateX(9.9609375px) translateY(-6px);
+  }
+  body{
+    background-image:url('https://cdn.grapedrop.com/u9b996dca8cfe4ce39f192bec61fa9d4b/8c9f9062f60345dcb44f44223768cda1_image_2022-07-05_233602617.png');
+    background-repeat:repeat;
+    background-position:left top;
+    background-attachment:scroll;
+    background-size:auto;
+  }
+  #i75d{
+    width:500px;
+    font-family:Courier New, Courier, monospace;
+    color:#ffffff;
+    position:absolute;
+    transform: translateX(9.9609375px) translateY(24px);
+  }
+  #iyrh{
+    position:absolute;
+    transform: translateX(1812px) translateY(12.25px);
+    max-width:200%;
+    width:60px;
+    height:60px;
+    backdrop-filter:opacity(100%);
+    background-image:url('https://cdn.grapedrop.com/u9b996dca8cfe4ce39f192bec61fa9d4b/6f552cc6466141f6a04bb157cb127f3e_3069758_circle_discord_gaming_messenger_round_icon_icon.png');
+    background-repeat:repeat;
+    background-position:center center;
+    background-attachment:scroll;
+    background-size:cover;
+  }
+  #iz79{
+    position:absolute;
+    transform: translateX(1746px) translateY(12.5px);
+    max-width:200%;
+    width:60px;
+    height:60px;
+    backdrop-filter:opacity(100%);
+    background-image:url('https://cdn.grapedrop.com/u9b996dca8cfe4ce39f192bec61fa9d4b/903c7dfb68f64946a6a8475a23eccb9e_294712_circle_youtube_icon.png');
+    background-repeat:repeat;
+    background-position:center center;
+    background-attachment:scroll;
+    background-size:cover;
+  }
+  #inby{
+    position:absolute;
+    transform: translateX(1679px) translateY(12.625px);
+    max-width:200%;
+    width:60px;
+    height:60px;
+    backdrop-filter:opacity(100%);
+    background-image:url('https://cdn.grapedrop.com/u9b996dca8cfe4ce39f192bec61fa9d4b/0bb2e86288574095b3d6d5e63f09bbc1_mark_-_white.png');
+    background-repeat:repeat;
+    background-position:center center;
+    background-attachment:scroll;
+    background-size:cover;
+  }
